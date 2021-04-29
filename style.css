@@ -1,0 +1,33 @@
+h1{
+    color:white;
+}
+.header{
+    background-color:black ;
+    display: flex;
+    justify-content: first baseline;
+
+}
+
+.site-description{
+    display: flex;
+    flex-direction: wrap;
+    justify-content: first baseline;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu a{
+    color: white;
+    margin-left: 1200px;
+}
+
+
+
